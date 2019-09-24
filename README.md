@@ -5,11 +5,11 @@ hihihi
 ####mtc
 #####mtc
 
-1.a
-1.a
-1.a
-1.a
+1. a
+1. a
+1. a
+1. a
 
-*d
-*d
-*d
+* d
+* d
+* d
